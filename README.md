@@ -1,2 +1,2 @@
-# daily_coding_problem_zig
-Daily coding problem's exercises solved by me in Zig.
+# Daily coding problem in zig
+Just a repository of me doing exercises from Daily coding problem in zig.
